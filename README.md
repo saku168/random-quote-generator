@@ -1,11 +1,22 @@
 # Random Quote Generator
 
-A responsive quote generator built with HTML, CSS and vanilla JavaScript.
+A responsive quote generator made with **HTML, CSS and vanilla JavaScript**.
 
 ## Features
-- Shows a random inspirational quote
-- Displays the author's name
-- Avoids repeating the previous quote
+- Displays a randomly selected inspirational quote.
+- Shows the quote author's name.
+- Avoids displaying the same quote twice in a row.
 
-## Run
-Open `index.html` in your browser.
+## Run locally
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+
+No installation or build tools are required.
+
+## Files
+- `index.html` — page structure
+- `style.css` — styling
+- `script.js` — quote selection and interaction
+
+## What this project practises
+JavaScript arrays, random selection, and DOM updates.
